@@ -1,0 +1,58 @@
+export default `9/5/23, 12:49 AM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+9/4/23, 10:44 PM - Semo Emma created group "Aseobi for S&E"
+9/5/23, 12:49 AM - Semo Emma added you
+9/5/23, 12:52 AM - Semo Emma added +234 808 438 8408
+9/5/23, 12:53 AM - You're now an admin
+9/5/23, 12:59 AM - 🦆 added +234 703 002 9222, +234 706 834 5047, +234 810 965 1183, and +234 906 320 7764
+9/5/23, 8:54 AM - Semo Emma added +234 814 728 6920
+9/5/23, 8:55 AM - Semo Emma removed +234 915 604 8166
+9/5/23, 6:24 AM - +234 902 338 7500: Ok
+9/5/23, 8:06 AM - +234 817 801 6674: 🙄
+9/5/23, 8:23 AM - +234 907 388 8620: Sharp
+9/5/23, 8:39 AM - +234 803 909 4386: Nah my family full here ooo 😁😁
+9/5/23, 8:40 AM - +234 812 105 7235: 🤭💃💃
+9/5/23, 8:40 AM - +234 803 909 4386: I greet everybody ✌🏻
+9/5/23, 8:41 AM - +234 812 105 7235: My finest sec❤️
+9/5/23, 8:42 AM - +234 803 909 4386: My woman 😘
+How far nah
+9/5/23, 8:46 AM - Semo Emma: Una good morning this morning ooooo..... how was our night??? 
+Nd Pls do have a great day ahead
+9/5/23, 8:59 AM - +234 812 105 7235: I Dey o n u
+9/5/23, 9:03 AM - +234 803 909 4386: I’m good too
+9/5/23, 9:50 AM - +234 810 234 1262: Good morning all
+9/5/23, 9:51 AM - +234 810 234 1262: You con confuse
+9/5/23, 9:51 AM - +234 810 234 1262: Why you da create two groups 😂😂
+9/5/23, 10:33 AM - +234 907 388 8620: U still see am abi 😂
+9/5/23, 10:55 AM - +234 906 320 7764: Hello everyone
+9/5/23, 11:09 AM - 🦆: Mi gee, howfar
+9/5/23, 11:10 AM - +234 906 320 7764: I dey oooooo
+9/5/23, 11:10 AM - +234 906 320 7764: Bride to be...... Oshey baddest
+9/5/23, 11:11 AM - +234 808 438 8408: Good morning all
+9/5/23, 11:12 AM - +234 808 438 8408: Wen Emma dey created two group abi na two uniform we wan wears <This message was edited>
+9/5/23, 11:26 AM - Semo Emma: Mk una nor vex ooo I was high
+9/5/23, 11:28 AM - Semo Emma: Adl u suppose understand nah the highness of yesterday was too much 😂😂😂
+9/5/23, 11:31 AM - +234 803 909 4386: So my TWINNIE don dey high on colos??
+9/5/23, 11:32 AM - Semo Emma: U knw the matter nah
+9/5/23, 11:33 AM - +234 803 909 4386: 🤣🤣🤣
+9/5/23, 1:06 PM - +234 706 860 0831: <Media omitted>
+9/5/23, 1:36 PM - +234 810 234 1262: How many bullet😂
+9/5/23, 2:17 PM - +234 817 801 6674: U for say how many Eva can water
+9/5/23, 2:21 PM - +234 810 234 1262: Aswear
+9/5/23, 2:22 PM - +234 810 234 1262: Obos, how far, how many Eva can water
+9/5/23, 4:27 PM - Semo Emma: I nor understand wetin concern eve Nd bullet me self nah 5 bullet I don take only today
+9/5/23, 4:28 PM - +234 812 105 7235: <Media omitted>
+9/5/23, 4:28 PM - Semo Emma: Vm u knw the matter nah
+9/5/23, 4:28 PM - Semo Emma: On to front store level 😂😂
+9/5/23, 4:29 PM - Semo Emma: Abi u nor dey see me for there ??
+9/5/23, 4:29 PM - +234 812 105 7235: Lol 5 black bullet 😂💔
+This one off me 😂🤭
+9/5/23, 4:29 PM - +234 812 105 7235: 😂😂😂😂
+9/5/23, 4:30 PM - +234 817 801 6674: Dat means nor b WP dey talk....cos WP wen I know supposed do high with can water
+9/5/23, 4:31 PM - Semo Emma: Old things are pass away ooo the new me has come 😂
+9/5/23, 4:31 PM - Semo Emma: Mummy mk u rest say drink nah drink 😂😂😂
+9/5/23, 4:31 PM - +234 817 801 6674: Come from where to where
+9/5/23, 6:34 PM - Semo Emma changed the group name from "Aseobi for S&E" to "Aseobi for SEMO"
+9/5/23, 6:35 PM - Semo Emma changed the group name from "Aseobi for SEMO" to "Aseobi for SEMO2k23"
+9/12/23, 8:27 PM - +234 803 210 5119 opened a voice chat
+9/12/23, 10:51 PM - +234 814 728 6920 opened a voice chat
+`;
